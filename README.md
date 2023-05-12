@@ -1,5 +1,5 @@
 # cell_cancer_model_api
-This API utilizes FastAPI to deploy a cancer cell classification model: [reference]('https://github.com/sabinorsp/cancer_data_classification').
+This API utilizes FastAPI to deploy a cancer cell classification model: [reference](https://github.com/sabinorsp/cancer_data_classification).
 
 ---
 
